@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            
+            "brend": "Catrice",
+            "model": "Paleta",
+            "cijena": "12,00",
+            "valuta": "KM",
+            "slika": "image/catricee.jpg"
+        },
+        {
+            
+            "brend": "Maybelline",
+            "model": "Ruž",
+            "cijena": "25,00",
+            "valuta": "KM",
+            "slika": "image/maybelline.jpg"
+        },
+        {
+            
+            "brend": "Essence",
+            "model": "spužva za šminkanje",
+             "cijena": "6,00",
+            "valuta": "KM",
+            "slika": "image/make-up sponge.jpg"
+        },
+        {
+            
+            "brend": "L.O.V",
+           "model":"Matt ruž za usne",
+            "cijena": "7,00",
+            "valuta": "KM",
+            "slika": "image/lovmatt.jpg"
+        },
+        {
+            
+            "brend": "LOREAL",
+            "model": "Puder true match",
+            "cijena": "25,00",
+            "valuta": "KM",
+            "slika": "image/loo.jpg"
+        }
+    ]
+}
