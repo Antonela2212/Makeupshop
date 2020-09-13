@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background: #fff;
+    width: 100%;
+    height: calc(100vh - 100px);
+    padding: 20px;
+}
+
+.mobiteli, .kosarica {
+    padding: 10px 30px;
+    width: 49%;
+    height: 100%;
+    float: left;
+    overflow-y: auto;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.articles, .shoping-cart {
+    background: #ccc;
+    padding: 10px;
+    width: 49%;
+    height: 100%;
+    float: left;
+    overflow-y: auto;
+}
+
+.article {
+    background: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 130px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.article div {
+    pointer-events: none;
+}
+
+.shoping-cart {
+    float: right;
+}
+
+.makeup-image {
+    display: inline-block;
+    width: 80px;
+    height: 100px;
+}
+
+.article-info {
+    display: inline-block;
+    width: 80%;
+    vertical-align: top;
+}
+
+.price {
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.naziv {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.footer {
+    margin-top: 40px;
+    padding: 10px 20px 10px 20px;
+    text-align: right;
+}
+
+span {
+    display: inline-block;
+}
+
+button {
+    outline: none;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    min-width: 80px;
+    cursor: pointer;
+}
+
+#resetBtn {
+    background: #ccc;
+    
+}
+
+#naplatiBtn {
+    background: black;
+}
+
+.total-items, .total {
+    margin-right: 20px;
+    font-weight: bold;
+}
